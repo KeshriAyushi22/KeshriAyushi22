@@ -1,6 +1,6 @@
 ### Hi there, I'm Ayushi Keshri 👋
 
- [![Website](https://musing-stonebraker-cb97ed.netlify.app/)](https://musing-stonebraker-cb97ed.netlify.app/)
+ [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fmusing-stonebraker-cb97ed.netlify.app)](https://musing-stonebraker-cb97ed.netlify.app/)
 
 
 ## I'm Full Stack Developer Learning Each Day Something New!!
@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-KeshriAyushi22.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP)
+[<img src="https://now-playing.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP)
 
 ### Connect with me:
 
@@ -44,14 +44,15 @@
 <br />
 <br />
 
----
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Ayushi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KeshriAyushi22&show_icons=true&hide_border=true" />
+  <img align="left" alt="Ayushi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KeshriAyushi22&show_icons=true&hide_border=true&hide=stars,prs&count_private=true&show_icons=true" />
 
 
+---
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KeshriAyushi22&repo=amazon-clone)](https://github.com/KeshriAyushi22/amazon-clone)
 
 [stackoverflow]:https://stackoverflow.com/users/11219171/ayushi-keshri
 [instagram]: https://www.instagram.com/invites/contact/?i=j72rb6ieezz5&utm_content=km8q8j1
