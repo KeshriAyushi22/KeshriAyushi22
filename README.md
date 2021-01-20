@@ -41,12 +41,14 @@
 
 <br />
 <br />
----
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeshriAyushi22&layout=compact)](https://github.com/KeshriAyushi22/github-readme-stats) -->
 
 <br/>
+<details>
+  <summary>:zap: GitHub Stats</summary>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=KeshriAyushi22&show_icons=true&hide_border=true&hide=stars&count_private=true&show_icons=true" />
+  </details>
 <br/>
 
 
