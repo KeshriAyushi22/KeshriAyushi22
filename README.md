@@ -18,7 +18,8 @@
 
 [<img align="left" alt="KeshriAyushi22.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="KeshriAyushi22 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="KeshriAyushi22 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- [<img align="left" alt="KeshriAyushi22 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+
 
 <br />
 <br/>
@@ -40,7 +41,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeshriAyushi22&layout=compact)](https://github.com/KeshriAyushi22/github-readme-stats) -->
 
@@ -50,10 +50,8 @@
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=KeshriAyushi22&show_icons=true&hide_border=true&hide=stars&count_private=true&show_icons=true" />
   
-<br/>
-
 
 [stackoverflow]:https://stackoverflow.com/users/11219171/ayushi-keshri
 [instagram]: https://www.instagram.com/invites/contact/?i=j72rb6ieezz5&utm_content=km8q8j1
 [linkedin]: https://www.linkedin.com/in/ayushi-keshri/
-
+[gmail]:keshri.ayushi10@gmail.com
