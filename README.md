@@ -11,9 +11,13 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to dance and works inculcating creativeness 
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧
 
-[<img src="https://now-playing-ayushikeshri.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP)
+[<img src="https://now-playing-ayushikeshri.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) -->
+
+### GitHub Stats:
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KeshriAyushi22&show_icons=true&hide_border=true&hide=stars,prs&count_private=true&show_icons=true" />
+
 
 ### Connect with me:
 
@@ -45,15 +49,9 @@
 <br />
 
 
-<div style={display:'flex'}>
-
-### GitHub Stats:
-  <img align="left" alt="Ayushi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KeshriAyushi22&show_icons=true&hide_border=true&hide=stars,prs&count_private=true&show_icons=true" />
-
-### MOST USED LANGUAGE:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeshriAyushi22&layout=compact)](https://github.com/KeshriAyushi22/github-readme-stats)
 
-</div>
+
 
 [stackoverflow]:https://stackoverflow.com/users/11219171/ayushi-keshri
 [instagram]: https://www.instagram.com/invites/contact/?i=j72rb6ieezz5&utm_content=km8q8j1
