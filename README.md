@@ -14,12 +14,6 @@
 <!-- ### Spotify Playing 🎧
 
 [<img src="https://now-playing-ayushikeshri.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) -->
-
-### GitHub Stats:
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KeshriAyushi22&show_icons=true&hide_border=true&hide=stars&count_private=true&show_icons=true" />
-<br/>
-<br/>
-
 ### Connect with me:
 
 [<img align="left" alt="KeshriAyushi22.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][stackoverflow]
@@ -27,6 +21,10 @@
 [<img align="left" alt="KeshriAyushi22 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KeshriAyushi22&show_icons=true&hide_border=true&hide=stars&count_private=true&show_icons=true" />
+<br/>
+<br/>
 
 ---
 
