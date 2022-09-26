@@ -5,11 +5,6 @@
 
 ## I'm Full Stack Developer Learning Each Day Something New!!
 
-##- 🔭 I participated in my first ever HacktoberFest
-##- 🌱 I’m currently learning everything 🤣
-##- 👯 I’m looking to collaborate with other developers
-##- 🥅 2021 Goals: Contribute more to Open Source projects
-## ⚡ Fun fact: I love to dance and works inculcating creativeness 
 
 <!-- ### Spotify Playing 🎧
 
